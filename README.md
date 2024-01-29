@@ -44,8 +44,8 @@ This is a sample for a Domain Driven Design (DDD) approach of a simple business 
 
 - `/api/pointsOfInterest`
 
-`
-{
+
+```{
    "username": "boris",
    "company" : "PHYSARO",
    "coordinates" : {
@@ -53,11 +53,11 @@ This is a sample for a Domain Driven Design (DDD) approach of a simple business 
        "longitude" : 10
    }
 }
-`
+```
 
 - `/api/getDistance`
 
-`[
+```[
     {
     "username": "boris",
     "company" : "PHYSARO",
@@ -74,4 +74,5 @@ This is a sample for a Domain Driven Design (DDD) approach of a simple business 
         "longitude" : 10.123123
         }
     }
-]`
+]
+```
