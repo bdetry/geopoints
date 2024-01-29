@@ -42,7 +42,7 @@ This is a sample for a Domain Driven Design (DDD) approach of a simple business 
 
 # Request samples 
 
-- `/api/pointsOfInterest`
+- `POST - /api/pointsOfInterest`
 
 
 ```
@@ -56,7 +56,7 @@ This is a sample for a Domain Driven Design (DDD) approach of a simple business 
 }
 ```
 
-- `/api/getDistance`
+- `POST - /api/getDistance`
 
 ```
 [
