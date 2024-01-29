@@ -1,4 +1,4 @@
-#Geo points exercise 
+# Geo points exercise 
 
 This is a sample for a Domain Driven Design (DDD) approach of a simple business problem. Written in TypeScript for an Express server with Node.js.
 
@@ -44,7 +44,7 @@ This is a sample for a Domain Driven Design (DDD) approach of a simple business 
 
 - `/api/pointsOfInterest`
 
-```
+`
 {
    "username": "boris",
    "company" : "PHYSARO",
@@ -52,11 +52,12 @@ This is a sample for a Domain Driven Design (DDD) approach of a simple business 
        "latitude" : 2,
        "longitude" : 10
    }
-}```
+}
+`
 
 - `/api/getDistance`
 
-```[
+`[
     {
     "username": "boris",
     "company" : "PHYSARO",
@@ -73,4 +74,4 @@ This is a sample for a Domain Driven Design (DDD) approach of a simple business 
         "longitude" : 10.123123
         }
     }
-]```
+]`
