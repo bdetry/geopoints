@@ -2,7 +2,7 @@
 
 This is a sample for a Domain Driven Design (DDD) approach of a simple business problem. Written in TypeScript for an Express server with Node.js.
 
-#Summary
+# Summary
 
 #### Possible Improvements
 #### Layers 
