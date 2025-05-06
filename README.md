@@ -35,9 +35,9 @@ This is a sample for a Domain Driven Design (DDD) approach of a simple business 
 
 - Run `npm i`
 
-- Run `npm build`
+- Run `npm run build`
 
-- Run `npm start`
+- Run `npm run start`
 
 
 # Request samples 
